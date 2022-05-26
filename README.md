@@ -13,4 +13,4 @@ This file includes two different projects:
     This is not code we wrote ourselves, it comes from the link at the bottom. 
     We mainly run the file for external data training code, and successfully output the training results. 
     However, an unsolvable error occurred in the prediction process (because OPENSMILE has certain requirements for GPU Settings of the device).
-  
+  URL:https://github.com/Renovamen/Speech-Emotion-Recognition
