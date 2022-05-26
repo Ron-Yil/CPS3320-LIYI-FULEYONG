@@ -1,1 +1,1 @@
-
+The accuracy of the software's speech recognition is mainly affected by two factors: one is the status of the device's reception, and the other is the reliability of calling API. As for the reliability of THE API, you can refer to the voice recognition accuracy report on the official website of IFlytek to gain the trust of users. The accuracy of the VOICE recognition API of Iflytek is higher than that of Baidu and Google, so the accuracy of the results can be guaranteed. Meanwhile, the problem of device radio depends on the individual user.
