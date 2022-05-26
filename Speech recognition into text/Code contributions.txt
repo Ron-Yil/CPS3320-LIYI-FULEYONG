@@ -1,0 +1,1 @@
+All of the code in get_audio.py is written by us. For the code of voice recognition part of file iat_demo.py, the code of calling API part refers to the calling code of the website to which THE API belongs, which is mainly 46 to 89 lines of code in the code file.
